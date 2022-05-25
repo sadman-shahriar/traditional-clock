@@ -1,6 +1,6 @@
 # Introduction
 
-Traditional Clock is a fully working and animated analog clock that shows the current time. You can place this inside your application that will then automatically display the current time without needing any additional setup steps.
+Traditional Clock is a fully working and animated analog clock that shows the current time and date with dark and light mode. You can place this inside your application that will then automatically display the current time without needing any additional setup steps.
 
 ## Demo
 
